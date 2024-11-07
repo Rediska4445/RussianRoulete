@@ -1,0 +1,11 @@
+C:\Users\2K24\source\repos\Parysov ISP 223k - Russian Roulete\Parysov ISP 223k - Russian Roulete\bin\Debug\Parysov ISP 223k - Russian Roulete.exe.config
+C:\Users\2K24\source\repos\Parysov ISP 223k - Russian Roulete\Parysov ISP 223k - Russian Roulete\bin\Debug\Parysov ISP 223k - Russian Roulete.exe
+C:\Users\2K24\source\repos\Parysov ISP 223k - Russian Roulete\Parysov ISP 223k - Russian Roulete\bin\Debug\Parysov ISP 223k - Russian Roulete.pdb
+C:\Users\2K24\source\repos\Parysov ISP 223k - Russian Roulete\Parysov ISP 223k - Russian Roulete\obj\Debug\Parysov ISP 223k - Russian Roulete.csproj.AssemblyReference.cache
+C:\Users\2K24\source\repos\Parysov ISP 223k - Russian Roulete\Parysov ISP 223k - Russian Roulete\obj\Debug\Parysov_ISP_223k___Russian_Roulete.Form1.resources
+C:\Users\2K24\source\repos\Parysov ISP 223k - Russian Roulete\Parysov ISP 223k - Russian Roulete\obj\Debug\Parysov_ISP_223k___Russian_Roulete.Menu.resources
+C:\Users\2K24\source\repos\Parysov ISP 223k - Russian Roulete\Parysov ISP 223k - Russian Roulete\obj\Debug\Parysov_ISP_223k___Russian_Roulete.Properties.Resources.resources
+C:\Users\2K24\source\repos\Parysov ISP 223k - Russian Roulete\Parysov ISP 223k - Russian Roulete\obj\Debug\Parysov ISP 223k - Russian Roulete.csproj.GenerateResource.cache
+C:\Users\2K24\source\repos\Parysov ISP 223k - Russian Roulete\Parysov ISP 223k - Russian Roulete\obj\Debug\Parysov ISP 223k - Russian Roulete.csproj.CoreCompileInputs.cache
+C:\Users\2K24\source\repos\Parysov ISP 223k - Russian Roulete\Parysov ISP 223k - Russian Roulete\obj\Debug\Parysov ISP 223k - Russian Roulete.exe
+C:\Users\2K24\source\repos\Parysov ISP 223k - Russian Roulete\Parysov ISP 223k - Russian Roulete\obj\Debug\Parysov ISP 223k - Russian Roulete.pdb
